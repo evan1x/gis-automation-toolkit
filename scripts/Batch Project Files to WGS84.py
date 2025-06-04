@@ -7,3 +7,4 @@ for file in os.listdir(folder):
         shp = gpd.read_file(os.path.join(folder, file))
         shp = shp.to_crs("EPSG:4326")
         shp.to_file(os.path.join(folder, f"{file[:-4]}_wgs84.shp"))
+ 

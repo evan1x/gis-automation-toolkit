@@ -22,4 +22,4 @@ try:
     print("\nSuccessfully read and plotted the shapefile.")
 
 except Exception as e:
-    print(f"An error occurred: {e}")
+    print(f"An error occurred: {e}") 
