@@ -3,3 +3,5 @@ fiona
 pyproj
 shapely
 rtree
+rasterio
+rasterstats
