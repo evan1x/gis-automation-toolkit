@@ -17,6 +17,15 @@ This repository contains a collection of Python scripts developed to automate co
 - **List All Field Names.py** – Lists all attribute field names from a given shapefile.
 - **Print Centroids of All Polygons.py** – Calculates and prints centroid coordinates for all polygon features.
 - **Select and Export Shapes by Attribute.py** – Selects features by attribute query and exports them to a new shapefile.
+- **Automated Data Validator.py** – Performs automated checks on shapefile attributes and geometry to ensure data quality and consistency.
+- **Batch Coordinate System Transformer.py** – Transforms the coordinate system of multiple shapefiles to a user-specified projection.
+- **Batch Project Files to WGS84.py** – Projects all shapefiles in a folder to the WGS84 coordinate system (EPSG:4326).
+- **Delete Empty Fields.py** – Removes attribute fields that contain only null or empty values from a shapefile.
+- **Feature Class to Shapefile.py** – Converts a feature class from a geodatabase to a standalone shapefile.
+- **List All Feature Classes in a GBD.py** – Lists the names of all feature classes contained within a geodatabase.
+- **Read a Shapefile and Plot It.py** – Loads a shapefile and generates a simple plot of its features using matplotlib.
+- **Remove Null Geometry.py** – Deletes features from a shapefile that have null or invalid geometry.
+- **Shapefile to GeoJSON.py** – Converts a shapefile to the GeoJSON format for web and application use.
 
 ## Technologies Used
 
