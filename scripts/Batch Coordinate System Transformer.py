@@ -1,7 +1,7 @@
 """
 Batch Coordinate System Transformer
 Professional-grade coordinate transformation with validation and reporting
-Author: GIS Automation Toolkit
+Author: Evan Nickason
 """
 
 import arcpy
