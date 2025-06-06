@@ -77,5 +77,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## About
 
-Developed by Evan Nickason during a GIS internship as part of a broader goal to transition into other roles.
+Developed by Evan Nickason during a GIS internship.
 GitHub: github.com/evan1x
