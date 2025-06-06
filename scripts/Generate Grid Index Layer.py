@@ -4,7 +4,7 @@ import box
 import math
 
 # Parameters
-minx, miny, maxx, maxy = 0, 0, 5000, 3000
+minx, miny, maxx, maxy = 0, 0, 5000, 3000 # Replace
 cell_width = 1000
 cell_height = 1000
 crs = "EPSG:32633" # Example
