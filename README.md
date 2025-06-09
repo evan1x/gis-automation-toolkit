@@ -26,6 +26,11 @@ This repository contains a collection of Python scripts developed to automate co
 - **Read a Shapefile and Plot It.py** – Loads a shapefile and generates a simple plot of its features using matplotlib.
 - **Remove Null Geometry.py** – Deletes features from a shapefile that have null or invalid geometry.
 - **Shapefile to GeoJSON.py** – Converts a shapefile to the GeoJSON format for web and application use.
+- **Auto Schema Reporter** – Extracts all fields, types, lengths, and domain from a feature class and outputs a clean CSV/Excel for documentation.
+- **Batch Field Rename Tool** – Standardizes field names across datasets using a mapping dictionary.
+- **Merge Feature Classes in a GDB** – Merge all feature classes in a GDB into a single output.
+- **Batch Raster to Polygon Conversion** – Convert multiple classified rasters to vector polygons.
+
 
 ## Technologies Used
 
