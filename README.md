@@ -87,5 +87,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## About
 
-Developed by Evan Nickason during a GIS internship. "GIS" name under commits is me :)
+Developed by Evan Nickason during a GIS internship. 
+"GIS" name under commits is me :)
 GitHub: github.com/evan1x
