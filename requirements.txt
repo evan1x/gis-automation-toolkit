@@ -5,3 +5,5 @@ shapely
 rtree
 rasterio
 rasterstats
+duckdb
+sqlalchemy

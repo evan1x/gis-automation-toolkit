@@ -26,10 +26,15 @@ This repository contains a collection of Python scripts developed to automate co
 - **Read a Shapefile and Plot It.py** – Loads a shapefile and generates a simple plot of its features using matplotlib.
 - **Remove Null Geometry.py** – Deletes features from a shapefile that have null or invalid geometry.
 - **Shapefile to GeoJSON.py** – Converts a shapefile to the GeoJSON format for web and application use.
-- **Auto Schema Reporter** – Extracts all fields, types, lengths, and domain from a feature class and outputs a clean CSV/Excel for documentation.
-- **Batch Field Rename Tool** – Standardizes field names across datasets using a mapping dictionary.
-- **Merge Feature Classes in a GDB** – Merge all feature classes in a GDB into a single output.
-- **Batch Raster to Polygon Conversion** – Convert multiple classified rasters to vector polygons.
+- **Auto Schema Reporter.py** – Extracts all fields, types, lengths, and domain from a feature class and outputs a clean CSV/Excel for documentation.
+- **Batch Field Rename Tool.py** – Standardizes field names across datasets using a mapping dictionary.
+- **Merge Feature Classes in a GDB.py** – Merge all feature classes in a GDB into a single output.
+- **Batch Raster to Polygon Conversion.py** – Convert multiple classified rasters to vector polygons.
+- **Spatial SQL Query Runner.py** – Runs SQL queries on spatial layers.
+- **SQL-Based Attribute Calculator.py** – Uses SQL logic to update or calculate fields.
+- **Dynamic Layer Joiner.py** – Joins two layers on attribute using SQL logic.
+- **PostGIS Query Executor.py** – Directly connect to a PostGIS database and run spatial queries or batch processes.
+- **Export SQL Query Result to GeoPackage.py** – Turn and SQL expression into a portable result.
 
 
 ## Technologies Used
