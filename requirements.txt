@@ -7,3 +7,12 @@ rasterio
 rasterstats
 duckdb
 sqlalchemy
+psycopg2
+duckdb[spatial]
+pygeos
+pandas
+matplotlib
+plotly
+pyogrio
+osgeo
+gdal

@@ -35,8 +35,8 @@ This repository contains a collection of Python scripts developed to automate co
 - **Dynamic Layer Joiner.py** – Joins two layers on attribute using SQL logic.
 - **PostGIS Query Executor.py** – Directly connect to a PostGIS database and run spatial queries or batch processes.
 - **Export SQL Query Result to GeoPackage.py** – Turn and SQL expression into a portable result.
-- **SQL Spatial Join Manager** - Specifies the spatial join type and optionally buffers features.
-
+- **SQL Spatial Join Manager.py** - Specifies the spatial join type and optionally buffers features.
+- **Bath Export SQL Views to GeoPackage.py** - Loops through a folder of .sql files and runs them against a spatial database, then exports each result as a layer in a GeoPackage.
 
 ## Technologies Used
 
