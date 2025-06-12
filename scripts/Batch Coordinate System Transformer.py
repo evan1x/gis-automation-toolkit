@@ -1,7 +1,6 @@
 """
 Batch Coordinate System Transformer
 Professional-grade coordinate transformation with validation and reporting
-Author: Evan Nickason
 """
 
 import arcpy

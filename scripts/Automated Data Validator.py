@@ -1,7 +1,6 @@
 """
 Automated Spatial Data Validator
 Comprehensive data quality assessment and automated fixing for spatial datasets
-Author: Evan Nickason
 """
 
 import arcpy
