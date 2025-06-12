@@ -37,7 +37,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Export SQL Query Result to GeoPackage.py** – Turn and SQL expression into a portable result.
 - **SQL Spatial Join Manager.py** - Specifies the spatial join type and optionally buffers features.
 - **Bath Export SQL Views to GeoPackage.py** - Loops through a folder of .sql files and runs them against a spatial database, then exports each result as a layer in a GeoPackage.
-
+- **Advanced Spatial Clustering Analysis** - Performs advanced DBSCAN clustering on point features, creates cluster polygons, and exports detailed stats.
 ## Technologies Used
 
 - Python 3.x
