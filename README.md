@@ -41,7 +41,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Network Analysis Tool.py** - Network analysis including shortest path calculations, service area analysis, and network topology stats using NetworkX.
 - **Raster Terrain Analysis.py** - Terrain analysis with slope/aspect, curvature, terrain classification, watershed delineation and viewshed analysis.
 - **Topology Error Detector with SQL & Geometry Fixing** - Detects and optionally fixes topology errors (self-intersections, overlaps, gaps) using SQL queries and Shapely fixes.
-
+- **Zonal Statistics Exporter with SQL Grouping** - Calculates zonal statistics (mean, min, max) from a raster over vector zones using rasterstats, then groups and aggregates via SQL.
 
 ## Technologies Used
 
