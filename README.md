@@ -40,6 +40,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Spatial Clustering Analysis** - Performs advanced DBSCAN clustering on point features, creates cluster polygons, and exports detailed stats.
 - **Network Analysis Tool.py** - Network analysis including shortest path calculations, service area analysis, and network topology stats using NetworkX.
 - **Raster Terrain Analysis.py** - Terrain analysis with slope/aspect, curvature, terrain classification, watershed delineation and viewshed analysis.
+- **Topology Error Detector with SQL & Geometry Fixing** - Detects and optionally fixes topology errors (self-intersections, overlaps, gaps) using SQL queries and Shapely fixes.
 
 
 ## Technologies Used
