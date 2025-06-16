@@ -43,6 +43,8 @@ This repository contains a collection of Python scripts developed to automate co
 - **Topology Error Detector with SQL & Geometry Fixing** - Detects and optionally fixes topology errors (self-intersections, overlaps, gaps) using SQL queries and Shapely fixes.
 - **Zonal Statistics Exporter with SQL Grouping** - Calculates zonal statistics (mean, min, max) from a raster over vector zones using rasterstats, then groups and aggregates via SQL.
 - **Time-Aware Spatiotemporal Joiner** - Joins two layers based on spatial relationship and timestamp similarity.
+- **Raster Value Time Series Extractor** - Given a set of points with time stamps, it grabs the corresponding raster value from a time stack.
+- **Change Detection Matrix Between Two Layers** - Compares two vector layers and categorizes geometry changes (unchanged, modified, deleted, added).
 
 ## Technologies Used
 
