@@ -40,11 +40,12 @@ This repository contains a collection of Python scripts developed to automate co
 - **Spatial Clustering Analysis** - Performs advanced DBSCAN clustering on point features, creates cluster polygons, and exports detailed stats.
 - **Network Analysis Tool.py** - Network analysis including shortest path calculations, service area analysis, and network topology stats using NetworkX.
 - **Raster Terrain Analysis.py** - Terrain analysis with slope/aspect, curvature, terrain classification, watershed delineation and viewshed analysis.
-- **Topology Error Detector with SQL & Geometry Fixing** - Detects and optionally fixes topology errors (self-intersections, overlaps, gaps) using SQL queries and Shapely fixes.
-- **Zonal Statistics Exporter with SQL Grouping** - Calculates zonal statistics (mean, min, max) from a raster over vector zones using rasterstats, then groups and aggregates via SQL.
-- **Time-Aware Spatiotemporal Joiner** - Joins two layers based on spatial relationship and timestamp similarity.
-- **Raster Value Time Series Extractor** - Given a set of points with time stamps, it grabs the corresponding raster value from a time stack.
-- **Change Detection Matrix Between Two Layers** - Compares two vector layers and categorizes geometry changes (unchanged, modified, deleted, added).
+- **Topology Error Detector with SQL & Geometry Fixing.py** - Detects and optionally fixes topology errors (self-intersections, overlaps, gaps) using SQL queries and Shapely fixes.
+- **Zonal Statistics Exporter with SQL Grouping.py** - Calculates zonal statistics (mean, min, max) from a raster over vector zones using rasterstats, then groups and aggregates via SQL.
+- **Time-Aware Spatiotemporal Joiner.py** - Joins two layers based on spatial relationship and timestamp similarity.
+- **Raster Value Time Series Extractor.py** - Given a set of points with time stamps, it grabs the corresponding raster value from a time stack.
+- **Change Detection Matrix Between Two Layers.py** - Compares two vector layers and categorizes geometry changes (unchanged, modified, deleted, added).
+- **Spatial Outlier Detection.py** - Detect features that are spatial outliers based on distance from centroids.
 
 ## Technologies Used
 
