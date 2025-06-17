@@ -48,6 +48,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Spatial Outlier Detection.py** - Detect features that are spatial outliers based on distance from centroids.
 - **Land Use Zonal Stat by Category** - Performs zonal stats on a raster grouped by land use polygons.
 - **Street Network Intersections.py** - Detects and merge duplicate street intersections.
+- **Geospatial Time Series Analysis** - Analyze movement over time.
 
 ## Technologies Used
 
