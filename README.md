@@ -51,7 +51,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Geospatial Time Series Analysis** - Analyze movement over time.
 - **Spatial Interpolation Using Inverse Distance Weighting (IDW).py** - Estimate missing values (like air quality, noise level, temperature) in unsampled locations based on surrounding points.
 
-## Technologies Used
+## Libraries Used
 
 - Python 3.x
 - ArcPy (requires ArcGIS Pro)
