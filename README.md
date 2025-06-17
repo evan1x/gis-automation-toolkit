@@ -55,6 +55,29 @@ This repository contains a collection of Python scripts developed to automate co
 - Python 3.x
 - ArcPy (requires ArcGIS Pro)
 - GeoPandas
+- fiona
+- pyproj
+- shapely
+- rtree
+- rasterio
+- rasterstats
+- duckdb
+- sqlalchemy
+- psycopg2
+- duckdb
+- pygeos
+- pandas
+- matplotlib
+- plotly
+- pyogrio
+- osgeo
+- gdal
+- scikit-learn
+- networkx
+- rasterio
+- scipy
+- scikit-image
+- seaborn
 
 ## Example Usage
 
