@@ -46,6 +46,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Raster Value Time Series Extractor.py** - Given a set of points with time stamps, it grabs the corresponding raster value from a time stack.
 - **Change Detection Matrix Between Two Layers.py** - Compares two vector layers and categorizes geometry changes (unchanged, modified, deleted, added).
 - **Spatial Outlier Detection.py** - Detect features that are spatial outliers based on distance from centroids.
+- **Land Use Zonal Stat by Category** - Performs zonal stats on a raster grouped by land use polygons.
 
 ## Technologies Used
 
