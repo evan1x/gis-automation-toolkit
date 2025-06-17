@@ -49,6 +49,7 @@ This repository contains a collection of Python scripts developed to automate co
 - **Land Use Zonal Stat by Category** - Performs zonal stats on a raster grouped by land use polygons.
 - **Street Network Intersections.py** - Detects and merge duplicate street intersections.
 - **Geospatial Time Series Analysis** - Analyze movement over time.
+- **Spatial Interpolation Using Inverse Distance Weighting (IDW).py** - Estimate missing values (like air quality, noise level, temperature) in unsampled locations based on surrounding points.
 
 ## Technologies Used
 
