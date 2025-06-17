@@ -17,3 +17,4 @@ WHERE dist > (
 
 outliers = duckdb.sql(query).df()
 print(outliers)
+
